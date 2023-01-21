@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ahchospitality.com	TRUE	/	FALSE	1999999999	ahchospSession	1siuid9vrn9vu6b2vkc1u2o836
+www.ahchospitality.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	c3f2117016c4e4ec8907acbb8637e54d0d1ac0e8e1f50721c3450a8794526c08a%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22IrxI8NIAc0Dr0pDrFM92d7FTQS-O9mJCkibijKqQ%22%3B%7D
+
